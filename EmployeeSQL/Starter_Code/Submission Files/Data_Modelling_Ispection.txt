@@ -1,0 +1,17 @@
+Departments.csv
+2 Columns, 9 Rows + 1 Heading Row, No duplication of values across the 2 columns
+
+Dept_emp.csv
+2 Columns, 33,1603 Rows + 1 Heading Row, duplication of values exists in "employee_no", "department_no"
+
+Employees
+ 7 columns, 300024 Rows + 1 Heading Row, duplication of values exists in "title_id", "first_name', "last_name"
+
+salaries.csv
+2 columns, , 300024 Rows + 1 Heading Row, duplication of values exists in "salaries"
+
+dept_manager.csv
+2 columns , 24 Rows + 1 Heading Row, duplication of values exists in "department_id",
+
+titles.csv
+2 Columns, 7 Rows + 1 Heading Row, no duplication of values
